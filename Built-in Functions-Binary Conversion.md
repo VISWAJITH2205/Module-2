@@ -17,8 +17,7 @@ print("Binary representation of", a, "is:", binary_value)
 
 ## Output
 
-![Uploading image.png…]()
-
+<img width="1270" height="102" alt="image" src="https://github.com/user-attachments/assets/eaccdca6-1047-4505-9d16-275ece5d1f1d" />
 
 
 ## Result
